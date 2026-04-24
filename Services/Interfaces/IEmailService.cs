@@ -1,0 +1,1 @@
+namespace HotelBooking.Services.Interfaces;

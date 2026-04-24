@@ -1,9 +1,8 @@
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using HotelBooking.DTOs;
 using HotelBooking.Services.Interfaces;
+using HotelBooking.DTOs;
 
-namespace HotelBooking.Controllers;
 
 [Authorize(Roles = "Admin")]
 [ApiController]

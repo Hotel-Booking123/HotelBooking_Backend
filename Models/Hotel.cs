@@ -1,6 +1,7 @@
 using System.ComponentModel.DataAnnotations;
 
 
+namespace HotelBooking.Models;
 
 public class Hotel
 {

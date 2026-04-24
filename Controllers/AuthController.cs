@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using HotelBooking.Services.Interfaces;
+using HotelBooking.DTOs;
 
 
 

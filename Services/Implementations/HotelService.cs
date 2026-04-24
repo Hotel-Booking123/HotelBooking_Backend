@@ -1,3 +1,8 @@
+using HotelBooking.DTOs;
+using HotelBooking.Models;
+
+namespace HotelBooking.Services.Implementations;
+
 public class HotelService : IHotelService
 {
     private readonly ApplicationDbContext _context;

@@ -1,3 +1,7 @@
+using HotelBooking.DTOs;
+using HotelBooking.Models;
+
+namespace HotelBooking.Services.Implementations;
 
 public class RoomService : IRoomService
 {

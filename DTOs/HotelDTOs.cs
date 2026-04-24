@@ -1,5 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
+namespace HotelBooking.DTOs;
 
 
 public class HotelResponse
