@@ -1,4 +1,5 @@
-namespace HotelBooking.Entities;
+namespace HotelBooking.Models;
+
 
 public class Booking
 {

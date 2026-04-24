@@ -1,3 +1,7 @@
+using HotelBooking.DTOs;
+
+namespace HotelBooking.Services.Interfaces;
+
 public interface IHotelService
 {
     Task<List<HotelResponse>> GetAllHotelsAsync();

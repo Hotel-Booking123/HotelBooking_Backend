@@ -3,6 +3,9 @@ using Microsoft.EntityFrameworkCore;
 
 using HotelBooking.Services.Interfaces;
 using HotelBooking.Helpers;
+using HotelBooking.DTOs;
+using HotelBooking.Models;
+using HotelBooking.Data;
 
 namespace HotelBooking.Services.Implementations;
 

@@ -1,3 +1,8 @@
+
+using HotelBooking.DTOs;
+
+namespace HotelBooking.Services.Interfaces;
+
 public interface IRoomService
 {
     Task<List<RoomResponse>> GetRoomsByHotelIdAsync(int hotelId, AvailabilityRequest? availability = null);

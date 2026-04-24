@@ -1,3 +1,10 @@
+using HotelBooking.Data;
+using HotelBooking.DTOs;
+using HotelBooking.Models;
+using HotelBooking.Services.Interfaces;
+using Microsoft.EntityFrameworkCore;
+
+namespace HotelBooking.Services.Implementations;
 
 public class RoomService : IRoomService
 {

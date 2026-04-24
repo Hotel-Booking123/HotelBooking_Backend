@@ -1,6 +1,6 @@
+
+
 using HotelBooking.DTOs;
-using HotelBookingAPI.DTOs;
-using HotelBookingAPI.Entities;
 
 namespace HotelBooking.Services.Interfaces;
 
