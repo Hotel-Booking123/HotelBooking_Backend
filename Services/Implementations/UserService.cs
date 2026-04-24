@@ -1,12 +1,12 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using HotelBooking.Data;
-using HotelBooking.Entities;
-using HotelBooking.DTOs;
 using HotelBooking.Services.Interfaces;
+using HotelBooking.DTOs;
+using HotelBooking.Models;
+using HotelBooking.Data;
 
 // No BCrypt using
-
 namespace HotelBooking.Services.Implementations;
+
 
 public class UserService : IUserService
 {

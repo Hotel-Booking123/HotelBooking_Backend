@@ -1,3 +1,4 @@
+namespace HotelBooking.DTOs;
 
 
 public class BookingRequest

@@ -4,7 +4,8 @@ using System.Security.Cryptography;
 using System.Text;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
-using HotelBooking.Entities;
+using HotelBooking.Models;
+
 
 namespace HotelBooking.Helpers
 {

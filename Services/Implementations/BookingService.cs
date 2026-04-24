@@ -1,11 +1,8 @@
 using HotelBooking.Data;
 using HotelBooking.DTOs;
-using HotelBooking.Entities;
+using HotelBooking.Models;
 using HotelBooking.Services.Interfaces;
-using HotelBookingAPI.Data;
-using HotelBookingAPI.DTOs;
-using HotelBookingAPI.Entities;
-using HotelBookingAPI.Services.Interfaces;
+using HotelBooking.Services.Interfaces;
 using Microsoft.EntityFrameworkCore;
 
 namespace HotelBooking.Services.Implementations;

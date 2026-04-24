@@ -1,7 +1,5 @@
 using HotelBooking.DTOs;
 using HotelBooking.Services.Interfaces;
-using HotelBookingAPI.DTOs;
-using HotelBookingAPI.Services.Interfaces;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Security.Claims;

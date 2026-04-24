@@ -1,13 +1,11 @@
-using System.IdentityModel.Tokens.Jwt;
-using System.Security.Claims;
-using System.Text;
+
 using Microsoft.EntityFrameworkCore;
-using Microsoft.IdentityModel.Tokens;
-using HotelBooking.Data;
-using HotelBooking.Entities;
-using HotelBooking.DTOs;
+
 using HotelBooking.Services.Interfaces;
 using HotelBooking.Helpers;
+using HotelBooking.DTOs;
+using HotelBooking.Models;
+using HotelBooking.Data;
 
 namespace HotelBooking.Services.Implementations;
 

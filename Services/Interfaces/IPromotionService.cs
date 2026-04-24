@@ -1,6 +1,6 @@
-using HotelBookingAPI.DTOs;
+using HotelBooking.DTOs;
 
-namespace HotelBookingAPI.Services.Interfaces;
+namespace HotelBooking.Services.Interfaces;
 
 public interface IPromotionService
 {

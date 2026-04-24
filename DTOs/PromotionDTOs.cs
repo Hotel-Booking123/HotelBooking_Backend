@@ -1,5 +1,5 @@
 using System.ComponentModel.DataAnnotations;
-
+namespace HotelBooking.DTOs;
 
 public class PromotionResponse
 {
@@ -17,6 +17,7 @@ public class ApplyDiscountRequest
     [Required] public string Code { get; set; } = string.Empty;
     [Required] public decimal Subtotal { get; set; }
 }
+
 
 public class DiscountResult
 {

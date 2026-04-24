@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
-using HotelBooking.DTOs;
 using HotelBooking.Services.Interfaces;
+using HotelBooking.DTOs;
 
-namespace HotelBooking.Controllers;
+
 
 [ApiController]
 [Route("api/[controller]")]
