@@ -2,6 +2,7 @@
 using HotelBooking.Services.Interfaces;
 using HotelBooking.DTOs;
 using HotelBooking.Models;
+using HotelBooking.Data;
 
 // No BCrypt using
 namespace HotelBooking.Services.Implementations;
