@@ -1,5 +1,4 @@
 using Microsoft.AspNetCore.Mvc;
-using HotelBooking.DTOs;
 using HotelBooking.Services.Interfaces;
 
 namespace HotelBooking.Controllers;
