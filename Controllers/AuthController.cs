@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using HotelBooking.Services.Interfaces;
 
-namespace HotelBooking.Controllers;
+
 
 [ApiController]
 [Route("api/[controller]")]
