@@ -1,5 +1,6 @@
 namespace HotelBooking.DTOs;
 
+
 public class BookingRequest
 {
     public int RoomId { get; set; }

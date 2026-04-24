@@ -1,7 +1,10 @@
-using Microsoft.EntityFrameworkCore;
-using HotelBookingAPI.Entities;
 
 namespace HotelBooking.Data;
+
+using HotelBooking.Models;
+using Microsoft.EntityFrameworkCore;
+
+
 
 public class ApplicationDbContext : DbContext
 {
