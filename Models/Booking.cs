@@ -1,3 +1,4 @@
+namespace HotelBooking.Entities;
 
 public class Booking
 {
